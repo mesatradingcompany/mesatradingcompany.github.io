@@ -31,7 +31,8 @@ app.controller('productsController', [
         $scope.items = [
       {name: '罐裝蠔皇鮑魚 - 五顆', price: '$65', oldprice: '$70'},
       {name: '罐裝蠔皇鮑魚 - 六顆', price: '$68', oldprice: '$73'},
-      {name: '罐裝蠔皇鮑魚 - 七顆', price: '$70', oldprice: '$75'}
+      {name: '罐裝蠔皇鮑魚 - 七顆', price: '$70', oldprice: '$75'},
+      {name: '冬茹味禮盒裝', price: '$100', oldprice: '$110'}
        ];
     }
 ]);
